@@ -1,0 +1,25 @@
+{
+    "Name": "Lannah - Female Lance",
+    "Author": "Nom0ri",
+    "Version": "1.1",
+    "Description": "Turns Lance into his female version - Lannah",
+    "UniqueID": "Nom0ri.LannahFemLance",
+    "UpdateKeys": ["Nexus:11085"],
+    "Dependencies": [
+		{
+			"UniqueID": "FlashShifter.StardewValleyExpandedCP",
+			"IsRequired": true,
+        },
+		{
+			"UniqueID": "spacechase0.JsonAssets",
+			"IsRequired": true,
+		},
+		{
+			"UniqueID": "Poltergeister.SeasonalCuteSpritesSVE",
+			"IsRequired": false
+		},
+	],
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    }
+ }
